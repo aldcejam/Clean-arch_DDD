@@ -1,7 +1,7 @@
 # 1.Get Started 🚀
 
 <div align="center">
-    <img width="480" height="360" style="object-fit:cover;" src="https://raw.githubusercontent.com/aldcejam-jdev/clean-arch-and-ddd/main/docs/assets/logo-clean-arch.png"/>
+    <img width="480" height="360" style="object-fit:cover;" src="https://macoratti.net/21/10/clean_arch0.jpg"/>
 </div>
 
 ## 1.1 About 📖
