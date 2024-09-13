@@ -40,7 +40,7 @@ if you want to run the project, you need to have the following tools installed o
 2. Clone the project:
 
     ```bash
-    git clone https://github.com/aldcejam-jdev/clean-arch-and-ddd
+    git clone https://github.com/aldcejam/clean-arch-and-ddd
     ```
 3. Create file props.env in root project
  - variables
